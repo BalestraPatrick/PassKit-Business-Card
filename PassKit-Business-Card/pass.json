@@ -46,8 +46,8 @@
 			},
 			{
 				"key" : "back-role",
-				"label" : "OCCUPATION",
-				"value" : "University Student @ University of Lugano"
+				"label" : "EXPERIENCE",
+				"value" : "iOS Intern @ <a href='https://www.n26.com'>N26</a>\nSoftware Engineer @ <a href='http://www.scandit.com'>Scandit</a>\niOS Intern @ <a href='https://www.bcgdv.com'>BCG Digital Ventures</a>\niOS Intern @ <a href='https://www.fifatms.com'>FIFA TMS</a>\nInformatics Student (class of 2018) @ <a href='http://www.usi.ch'>University of Lugano</a>"
 			},
 			{
 				"key" : "back-email",
